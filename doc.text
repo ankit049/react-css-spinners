@@ -1,0 +1,8 @@
+for eslint configs
+~ npm i -D eslint
+
+using the eslint 
+
+~ npx eslint --init
+
+and select the promt details
